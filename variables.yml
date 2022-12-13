@@ -4,3 +4,4 @@ packages:
 owner: "apache"
 group: "apache"
 httpd_port: 8080
+httpd_domain: "example.devops.com"

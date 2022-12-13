@@ -1,3 +1,6 @@
 - installing apache
 - creating httpd.conf from httpd.conf.tmpl
+- creating virtualhost from template
+- creating documentroot for virtaulhost.
+- creating index.html page
 - restarting enabling apache
