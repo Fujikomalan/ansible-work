@@ -8,3 +8,6 @@
 - restarting enabling apache
 - installing mysql-server
 - restarting mysql-server
+- anonymous user deleted
+- root password reset
+- test db removal
