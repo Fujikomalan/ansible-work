@@ -1,6 +1,7 @@
 ---
 packages:
   - "httpd"
+  - "php"
 owner: "apache"
 group: "apache"
 httpd_port: 8080

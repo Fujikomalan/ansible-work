@@ -1,6 +1,8 @@
 - installing apache
+- installing php
+- creating php.ini from php.ini.tmpl
 - creating httpd.conf from httpd.conf.tmpl
 - creating virtualhost from template
 - creating documentroot for virtaulhost.
-- creating index.html page
+- creating index.html index.php  page
 - restarting enabling apache
