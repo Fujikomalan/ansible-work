@@ -3,3 +3,4 @@ packages:
   - "httpd"
 owner: "apache"
 group: "apache"
+httpd_port: 8080
