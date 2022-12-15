@@ -6,3 +6,5 @@
 - creating documentroot for virtaulhost.
 - creating index.html index.php  page
 - restarting enabling apache
+- installing postgres
+- restarting/enabling postgres
